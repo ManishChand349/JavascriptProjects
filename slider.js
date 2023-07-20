@@ -66,4 +66,3 @@ left.addEventListener("click", () => {
      changeColor()
 
 });
-
